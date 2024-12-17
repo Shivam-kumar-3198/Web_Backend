@@ -1,0 +1,17 @@
+{
+  "name": "lec01",
+  "version": "1.0.0",
+  "description": "learning backend and stepping up into express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shivam kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@ljharb/tsconfig": "^0.2.2"
+  }
+}
