@@ -1,0 +1,11 @@
+{
+  "name": "outsider",
+  "version": "1.0.0",
+  "description": "// Node js is not a programming language\r // It is not a technology\r //  It is not a framework\r // This is a Javascript run time environment",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam",
+  "license": "ISC"
+}
