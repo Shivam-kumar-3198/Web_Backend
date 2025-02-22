@@ -24,6 +24,10 @@ app.listen(3000)
 const express = require("express");
 const app = express();
 
+app.use(function(req,res,next){
+   console.log('middleware chala ');
+   next();
+});
 // routes creates karna
 
 app.get("/", function (req, res) {
