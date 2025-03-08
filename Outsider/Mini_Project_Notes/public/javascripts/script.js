@@ -1,0 +1,1 @@
+alert("hey welocme to the server");
